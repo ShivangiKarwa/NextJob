@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       colors: {
         headerBlue:'#01204E',
+        landingContent: '#FFF8DB'
       }
     },
     
